@@ -6,9 +6,9 @@ var LANG = document.documentElement.lang === "en" ? "en" : "es";
 
 /* Datos del negocio (demo) */
 window.SITE = {
-  phone: "+34611223344",
-  phoneDisplay: "611 22 33 44",
-  whatsapp: "34611223344",
+  phone: "+34659463296",
+  phoneDisplay: "659 46 32 96",
+  whatsapp: "34659463296",
   /* Horario semanal. 0=domingo…6=sábado. Minutos desde medianoche. [] = cerrado. */
   schedule: {
     0: [],
