@@ -131,8 +131,8 @@ h1, h2, h3, h4 {
 }
 .btn-primary { background: var(--terracota); color: var(--blanco); }
 .btn-primary:hover { background: var(--terracota-oscura); transform: translateY(-2px); box-shadow: var(--sombra); }
-.hero-actions .btn-primary { background: rgba(38, 28, 20, .82); backdrop-filter: blur(6px); }
-.hero-actions .btn-primary:hover { background: rgba(38, 28, 20, .95); }
+.hero-actions .btn-primary { background: rgba(173, 96, 53, .72); backdrop-filter: blur(6px); }
+.hero-actions .btn-primary:hover { background: rgba(173, 96, 53, .9); }
 .btn-outline { border-color: var(--marron); color: var(--marron); }
 .btn-outline:hover { background: var(--marron); color: var(--crema); transform: translateY(-2px); }
 .btn-outline-light { border-color: rgba(248,243,232,.55); color: var(--crema); }
